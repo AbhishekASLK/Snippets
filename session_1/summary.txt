@@ -7,3 +7,23 @@ Output:
 Explanation: first program
 ==================
 
+Code: 
+x = 30
+for i in range(10):
+	print("Hello Core2Web")
+
+Output:
+ Hello Core2Web
+Hello Core2Web
+Hello Core2Web
+Hello Core2Web
+Hello Core2Web
+Hello Core2Web
+Hello Core2Web
+Hello Core2Web
+Hello Core2Web
+Hello Core2Web
+
+Explanation: for loop first code
+==================
+
