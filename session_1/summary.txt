@@ -27,3 +27,12 @@ Hello Core2Web
 Explanation: for loop first code
 ==================
 
+Code: 
+print("hello")
+
+Output:
+ hello
+
+Explanation: this is simple hello 
+==================
+
