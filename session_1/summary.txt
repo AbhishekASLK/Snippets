@@ -36,3 +36,12 @@ Output:
 Explanation: this is simple hello 
 ==================
 
+Code: 
+print("Hello core2web")
+
+Output:
+ Hello core2web
+
+Explanation: this is my first simple program
+==================
+
