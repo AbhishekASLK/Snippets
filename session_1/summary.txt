@@ -1,0 +1,9 @@
+Code: 
+print("Hello Core2Web")
+
+Output:
+ Hello Core2Web
+
+Explanation: first program
+==================
+
