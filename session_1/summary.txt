@@ -45,3 +45,15 @@ Output:
 Explanation: this is my first simple program
 ==================
 
+Code: 
+print(h
+
+Output:
+   File "/home/abhishekaslk/Desktop/SuperX/Temporal-DEV/sessions/session_1/program5.py", line 1
+    print(h
+         ^
+SyntaxError: '(' was never closed
+
+Explanation: we need to closed bracket
+==================
+
